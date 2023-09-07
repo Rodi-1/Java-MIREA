@@ -1,5 +1,6 @@
 package ru.mirea.PR1;
 
+import java.math.BigInteger;
 import java.util.Scanner;
 
 public class TASK7
@@ -11,24 +12,20 @@ public class TASK7
         System.out.println("Введите число:");
         int n = scn.nextInt();
 
-        if(n > 27)
-        {
-            System.out.println("слишком большое число!");
-        }
-        else
-        {
-            int result = fact(n);
-            System.out.println("Факториал числа " + n + " = " + result);
-        }
+        BigInteger result = fact(n);
+        System.out.println("Факториал числа " + n + " = " + result);
 
     }
-    public static int fact(int n)
+    public static BigInteger fact(int n)
     {
-        int res = 1;
+        BigInteger res = new BigInteger("1");
+
         for(int i = 1; i <= n; i++)
         {
-            res *= i;
+            BigInteger multiplyer = new BigInteger(Integer.toString(i));
+            res = res.multiply(multiplyer);
         }
         return res;
     }
+
 }
