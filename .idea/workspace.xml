@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4923347f-46d3-4b1a-9cf5-e33d173a5cf8" name="Changes" comment="PR1 is done">
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR2/TASK4/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR2/TASK4/TestShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4923347f-46d3-4b1a-9cf5-e33d173a5cf8" name="Changes" comment="PR2 TASK4 is done">
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR3/TASK1/RandomArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR3/TASK2/Doubles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR3/TASK3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR3/TASK3/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR3/TASK3/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +37,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2V14hHhIA94wq7odG1bynN9K4NU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -87,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694073806290</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="PR2 TASK4 is done">
+      <option name="closed" value="true" />
+      <created>1694595001021</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694595001021</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
     <MESSAGE value="PR1 is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="PR1 is done" />
+    <MESSAGE value="PR2 TASK4 is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="PR2 TASK4 is done" />
   </component>
 </project>
