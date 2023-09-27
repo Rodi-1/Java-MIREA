@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4923347f-46d3-4b1a-9cf5-e33d173a5cf8" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR4/TASK1/Season.java" afterDir="false" />
+    <list default="true" id="4923347f-46d3-4b1a-9cf5-e33d173a5cf8" name="Changes" comment="PR2 TASK4 is done">
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR4/TASK2/Atelier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/PR3/TASK3/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/PR3/TASK3/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/PR4/TASK1/Season.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/PR4/TASK1/Season.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,28 +18,12 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
-        <option value="Enum" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Rodi-1&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="4e51368d-cf7a-4533-b01e-47db083f5861" />
-        <option name="url" value="https://github.com/Rodi-1/PR1.git" />
-      </UrlAndAccount>
-    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/ru/mirea/PR1/TASK3.java" root0="FORCE_HIGHLIGHTING" />
@@ -56,30 +42,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ssort/IdeaProjects/PR1&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/MIREA/JavaProjects/PR1/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/MIREA/JavaProjects/PR1",
+    "onboarding.tips.debug.path": "D:/MIREA/JavaProjects/PR1/src/Main.java"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="ru.mirea.PR2.TASK2" />
-    </key>
-  </component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
@@ -118,31 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694073806290</updated>
     </task>
-    <task id="LOCAL-00003" summary="test">
+    <task id="LOCAL-00003" summary="PR2 TASK4 is done">
       <option name="closed" value="true" />
-      <created>1694204222918</created>
+      <created>1694595001021</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1694204222918</updated>
+      <updated>1694595001021</updated>
     </task>
-    <task id="LOCAL-00004" summary="test">
-      <option name="closed" value="true" />
-      <created>1694271657285</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1694271657285</updated>
-    </task>
-    <task id="LOCAL-00005" summary="test">
-      <option name="closed" value="true" />
-      <created>1694273023166</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1694273023166</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,7 +115,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
     <MESSAGE value="PR1 is done" />
-    <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="PR2 TASK4 is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="PR2 TASK4 is done" />
   </component>
 </project>
