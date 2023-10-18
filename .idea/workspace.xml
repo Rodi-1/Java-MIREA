@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4923347f-46d3-4b1a-9cf5-e33d173a5cf8" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR4/TASK1/Season.java" afterDir="false" />
+    <list default="true" id="4923347f-46d3-4b1a-9cf5-e33d173a5cf8" name="Changes" comment="перевод 1 задания 4 практики">
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR4/TASK2/Clothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR4/TASK2/ClothingSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR4/TASK2/MenClothing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR4/TASK2/WomenClothing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
         <option value="Enum" />
       </list>
@@ -142,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694273023166</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="перевод 1 щадания 4 практики">
+      <option name="closed" value="true" />
+      <created>1695765055120</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695765055120</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +172,7 @@
     <MESSAGE value="test commit" />
     <MESSAGE value="PR1 is done" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="перевод 1 щадания 4 практики" />
+    <option name="LAST_COMMIT_MESSAGE" value="перевод 1 щадания 4 практики" />
   </component>
 </project>
