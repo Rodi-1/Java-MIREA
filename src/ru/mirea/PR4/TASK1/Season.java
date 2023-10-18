@@ -31,7 +31,7 @@ public enum Season {
 
     public static void main(String[] args) {
         Season favoriteSeason = SUMMER;
-        System.out.println("Я люблю " + favoriteSeason.getName());
+        favoriteSeason(favoriteSeason);
         System.out.println("Средняя температура: " + favoriteSeason.getAverageTemperature());
         System.out.println("Описание: " + favoriteSeason.getDescription());
 
@@ -41,6 +41,27 @@ public enum Season {
             System.out.println("Средняя температура: " + season.getAverageTemperature());
             System.out.println("Описание: " + season.getDescription());
             System.out.println();
+        }
+    }
+
+    public static void favoriteSeason(Season season){
+        switch (season){
+            case SPRING:
+                System.out.println("Я люблю Весну");
+                break;
+            case AUTUMN:
+                System.out.println("Я люблю Осень");
+                break;
+            case SUMMER:
+                System.out.println("Я люблю Лето");
+                break;
+            case WINTER:
+                System.out.println("Я люблю Зима");
+                break;
+            default:
+                System.out.println("Нет такого сезона");
+                break;
+
         }
     }
 }

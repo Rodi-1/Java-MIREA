@@ -9,7 +9,6 @@ public class main {
                 new Employee("Петр Петров", 55000.50),
                 new Employee("Анна Сидорова", 60000.75),
         };
-
         generateReport(employees);
     }
 }
