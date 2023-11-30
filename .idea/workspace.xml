@@ -5,13 +5,80 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4923347f-46d3-4b1a-9cf5-e33d173a5cf8" name="Changes" comment="2 задание 4 практики">
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR4/TASK4/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR4/TASK4/ComputerBrand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR4/TASK4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR4/TASK4/Memory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR4/TASK4/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR4/TASK4/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR10/MergeAndSortStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR10/SortingStudentsByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR10/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR11/DateComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR11/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR11/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR11/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR11/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR12/AnimatedWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR12/DisplayImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR12/RandomShapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR12/images/frame0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR12/images/frame1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR12/images/frame2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR13/PhoneNumberConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR13/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR13/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR14/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR14/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR14/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR14/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR14/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR15/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR15/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR16/PasswordCheckerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR16/TextEditorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR16/passwords.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR17/CalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR17/CalculatorModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR17/CalculatorView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR17/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR17/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR17/EmployeeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR17/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR17/Maincalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR18/Exception2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR18/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR18/ThrowsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR19/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR20/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR20/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR21/ArrayElementGetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR21/ArrayToListConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR21/GenericArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR21/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR22/calci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR23/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR23/ArrayQueueADT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR23/ArrayQueueModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR23/TestArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR23/TestArrayQueueADT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR23/TestArrayQueueModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR24/AbstractChairFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR24/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR24/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR24/MagicChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR24/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR24/ModernChairFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR24/VictorianChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR4_1/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR5/FootballMatchSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR6/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR8/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR8/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR8/zero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/PR9/MergeSortExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MIREA_JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MIREA_JAVA.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +131,18 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ssort/IdeaProjects/PR1&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/MIREA/JavaProjects/PR1/src/ru/mirea/PR24&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/MIREA/JavaProjects/PR1/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
@@ -79,11 +151,24 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MIREA\JavaProjects\PR1\src\ru\mirea\PR24" />
+      <recent name="D:\MIREA\JavaProjects\PR1\src\ru\mirea\PR12" />
+      <recent name="D:\MIREA\JavaProjects\PR1\src\ru\mirea\PR11" />
+      <recent name="D:\MIREA\JavaProjects\PR1\src\ru\mirea\PR10" />
+      <recent name="D:\MIREA\JavaProjects\PR1\src\ru\mirea\PR9" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="ru.mirea.PR2.TASK2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.mirea.PR23" />
+      <recent name="ru.mirea.PR17" />
+      <recent name="ru.mirea.PR14" />
+      <recent name="ru.mirea.PR5" />
     </key>
   </component>
   <component name="RunManager">
